@@ -1,5 +1,5 @@
 * wlr-displays
-`wlr-displays` is a simple script to turn off ALL displays on wlr-roots
+~wlr-displays~ is a simple script to turn off ALL displays on wlr-roots
 based compositors.
 
 ** Dependencies
