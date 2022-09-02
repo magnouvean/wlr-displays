@@ -1,0 +1,16 @@
+* wlr-displays
+`wlr-displays` is a simple script to turn off ALL displays on wlr-roots
+based compositors.
+
+** Dependencies
+- wlr-randr
+
+** Usage
+To turn off all displays use the following command:
+#+begin_src sh
+wlr-displays off
+#+end_src
+and to turn on all displays use the following command:
+#+begin_src sh
+wlr-displays on
+#+end_src
